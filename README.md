@@ -1,6 +1,4 @@
-# 🌟🌟🌟 AIOapp - Ứng dụng Tất Cả Trong Một 🌟🌟🌟
-
- AIOapp là một ứng dụng được thiết kế để tích hợp nhiều chức năng trong một giao diện duy nhất, giúp người dùng tiết kiệm thời gian và tối ưu hoá các tác vụ hàng ngày.
+🌟🌟🌟 AIOapp là một ứng dụng được thiết kế để tích hợp nhiều chức năng trong một giao diện duy nhất, giúp người dùng tiết kiệm thời gian và tối ưu hoá các tác vụ hàng ngày.  🌟🌟🌟
 
 ---
 
