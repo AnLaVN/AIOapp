@@ -26,6 +26,13 @@
 - **👌 Dễ sử dụng:** Giao diện thân thiện, trực quan, phù hợp cho cả người mới bắt đầu và người dùng nâng cao.
 - **🎛️ Tính năng linh hoạt:** Tự động cập nhật các tính năng mới. Hỗ trợ cả hai phiên bản installer và portable, giúp đáp ứng mọi nhu cầu của bạn.
 
+
+![image](https://github.com/user-attachments/assets/62e3de10-8b35-44ab-a7be-5a1b40a3b969)
+
+![image](https://github.com/user-attachments/assets/182c8fb0-8a15-4291-8e00-16aa7c27a5a6)
+
+
+
 ---
 
 
