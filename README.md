@@ -1,3 +1,20 @@
+<p align="center">
+	<img src="https://github.com/user-attachments/assets/b386df52-d02a-4e60-8516-c72fc84b9914" width = "100px">
+	<br>
+	<a href="https://github.com/AnLaVN/AIOapp/blob/Releases/LICENSE.md"><img src="https://img.shields.io/github/license/AnLaVN/AIOapp" alt="GitHub license"/></a>
+	<a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html"><img src="https://img.shields.io/badge/JDK-17+-orange" alt="JDK"></a>
+	<br>
+	<img src="https://img.shields.io/github/repo-size/AnLaVN/AIOapp">
+	<img src="https://img.shields.io/github/languages/code-size/AnLaVN/AIOapp">
+	<img src="https://img.shields.io/github/downloads/AnLaVN/AIOapp/total">
+	<a href="https://github.com/AnLaVN/AIOapp/releases"><img src="https://img.shields.io/github/v/release/AnLaVN/AIOapp"></a>
+	<a href="https://github.com/AnLaVN/AIOapp/releases"><img src="https://img.shields.io/github/release-date/AnLaVN/AIOapp"></a>
+	<a href="https://github.com/AnLaVN/AIOapp/commits/Releases"><img src="https://img.shields.io/github/commit-activity/w/AnLaVN/AIOapp"></a>
+	<a href="https://github.com/AnLaVN/AIOapp/commits/Releases"><img src="https://img.shields.io/github/last-commit/AnLaVN/AIOapp"></a>
+	<br><br>
+</p>
+
+
 🌟 AIOapp là một ứng dụng được thiết kế để tích hợp nhiều chức năng trong một giao diện duy nhất, giúp người dùng tiết kiệm thời gian và tối ưu hoá các tác vụ hàng ngày. 🌟
 
 ---
