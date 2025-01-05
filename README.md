@@ -1,9 +1,9 @@
-🌟🌟🌟 AIOapp là một ứng dụng được thiết kế để tích hợp nhiều chức năng trong một giao diện duy nhất, giúp người dùng tiết kiệm thời gian và tối ưu hoá các tác vụ hàng ngày.  🌟🌟🌟
+🌟 AIOapp là một ứng dụng được thiết kế để tích hợp nhiều chức năng trong một giao diện duy nhất, giúp người dùng tiết kiệm thời gian và tối ưu hoá các tác vụ hàng ngày. 🌟
 
 ---
 
 
-## ✨✨✨ Tính Năng Nổi Bật ✨✨✨
+## ✨ Tính Năng Nổi Bật ✨
 
 - **🔧 Tích hợp các công cụ phổ biến:** Chia tách dữ liệu excel, tải nội dung phương tiện trên Instagram, gửi lời mời kết bạn và nhắn tin hàng loạt trên Facebook, ...
 - **👌 Dễ sử dụng:** Giao diện thân thiện, trực quan, phù hợp cho cả người mới bắt đầu và người dùng nâng cao.
@@ -12,7 +12,7 @@
 ---
 
 
-## 🎯🎯🎯 Cài Đặt & Liên Kết Tải Về 🎯🎯🎯
+## 🎯 Cài Đặt & Liên Kết Tải Về 🎯
 
 | Phiên bản        | Hệ điều hành | Link tải    |
 | ---------------- | ------------ | ----------- |
@@ -23,7 +23,7 @@
 ---
 
 
-## 📖📖📖 Hướng Dẫn Sử Dụng 📖📖📖
+## 📖 Hướng Dẫn Sử Dụng 📖
 
 1. **📂 Cài đặt:**
    - 📥 Tải file tương ứng với hệ điều hành.
@@ -36,7 +36,7 @@
 ---
 
 
-## 📅📅📅 Lịch Sử Phát Hành 📅📅📅
+## 📅 Lịch Sử Phát Hành 📅
 
 | Phiên bản | Ngày Phát Hành | Ghi Chú                              |
 | --------- | -------------- | ------------------------------------ |
@@ -45,14 +45,14 @@
 ---
 
 
-## 🔐🔐🔐 Quyền Sử Dụng 🔐🔐🔐
+## 🔐 Quyền Sử Dụng 🔐
 
 Việc sử dụng AIOapp yêu cầu một giấy phép hợp lệ. Vui lòng liên hệ để sở hữu giấy phép chính thức và tận hưởng mọi tính năng của ứng dụng
 
 ---
 
 
-## 📞📞📞 Liên Hệ Hỗ Trợ 📞📞📞
+## 📞 Liên Hệ Hỗ Trợ 📞
 
 - **Telegram:** [@AnLaVN](https://t.me/AnLaVN)
 - **Messenger:** [@AnLaVN](https://m.me/AnLaVN)
@@ -60,6 +60,4 @@ Việc sử dụng AIOapp yêu cầu một giấy phép hợp lệ. Vui lòng li
 ---
 
 
-💬💬💬
-Chúng tôi trân trọng mọi ý kiến phản hồi từ người dùng để hoàn thiện ứng dụng hơn!
-💬💬💬
+💬 Chúng tôi trân trọng mọi ý kiến phản hồi từ người dùng để hoàn thiện ứng dụng hơn! 💬
