@@ -50,7 +50,7 @@
 
 1. **📂 Cài đặt:**
    - 📥 Tải file tương ứng với hệ điều hành.
-   - 🛠️ Chạy file cài đặt (đối với installer) hoặc sử dụng ngay (đối với portable và build).
+   - 🛠️ Chạy file cài đặt (đối với installer) hoặc sử dụng ngay (đối với portable).
 2. **🚪 Khởi động AIOapp:**
    - 🔑 Nhập thông tin giấy phép (liên hệ để được cấp giấy phép chính thức).
 3. **🛠️ Tính năng chính:**
