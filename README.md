@@ -42,7 +42,6 @@
 | ---------------- | ------------ | ----------- |
 | Installer        | Windows      | [Tải về](https://github.com/AnLaVN/AIOapp/releases/download/v1.0.0/AIOapp-Installer.exe) |
 | Portable         | Windows      | [Tải về](https://github.com/AnLaVN/AIOapp/releases/download/v1.0.0/AIOapp-Portable.zip) |
-| Build Jar        | Mọi nền tảng | [Tải về](https://github.com/AnLaVN/AIOapp/releases/download/v1.0.0/AIOapp-build-v1.0.0.zip) |
 
 ---
 
@@ -65,6 +64,7 @@
 | Phiên bản | Ngày Phát Hành | Ghi Chú                              |
 | --------- | -------------- | ------------------------------------ |
 | [v1.0.0](https://github.com/AnLaVN/AIOapp/releases/tag/v1.0.0)     | 05/01/2025     | Phát hành ban đầu                    |
+| [v2.0.0](https://github.com/AnLaVN/AIOapp/releases/tag/v2.0.0)     | 16/01/2025     | Phát hành cập nhật chức năng                   |
 
 ---
 
