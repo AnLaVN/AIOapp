@@ -40,8 +40,8 @@
 
 | Phiên bản        | Hệ điều hành | Link tải    |
 | ---------------- | ------------ | ----------- |
-| Installer        | Windows      | [Tải về](https://github.com/AnLaVN/AIOapp/releases/download/v1.0.0/AIOapp-Installer.exe) |
-| Portable         | Windows      | [Tải về](https://github.com/AnLaVN/AIOapp/releases/download/v1.0.0/AIOapp-Portable.zip) |
+| Installer        | Windows      | [Tải về](https://github.com/AnLaVN/AIOapp/releases/download/v2.0.0/AIOapp-Installer.exe) |
+| Portable         | Windows      | [Tải về](https://github.com/AnLaVN/AIOapp/releases/download/v2.0.0/AIOapp-Portable.zip) |
 
 ---
 
